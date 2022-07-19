@@ -20,7 +20,7 @@ class HistoryPage extends StatefulWidget {
 
 class _HistoryPageState extends State<HistoryPage> {
   late RecipeCategoryModel recipeCategoryModel;
-  late HistoryModel historyModel;
+  late HistoryModel historyModel;asdasdasdasd
   late List<HistoryElement> dataHistory;
   late Future getDataRecipeCategory;
   late Future getDataHistory;
